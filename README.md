@@ -11,3 +11,5 @@
 
 ## Usage
 ⚠️ Only run this on your own devices or with permission in lab environments.
+Please obey the law and take responsibility for your actions.
+We will not be responsible for anyone's stupid actions.
